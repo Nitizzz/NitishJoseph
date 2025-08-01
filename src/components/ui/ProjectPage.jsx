@@ -8,7 +8,7 @@ const cards = [
   {
     title: "AI Recipe Generator",
     description: "A web application that generates recipes based on user-provided ingredients using AI.",
-    src: "/assets/images/Screenshot 2025-07-27 095250.png",
+    src: "/assets/images/recipe-generator.png",
     ctaText: "Visit",
     ctaLink: "https://github.com/Nitizzz/ByteChef",
     technologies: ["React", "Node.js", "Gemini API", "Gradio"],
@@ -24,7 +24,7 @@ const cards = [
   {
     title: "School Management Website",
     description: "A full-stack website for CJM School to manage students, teachers, and courses.",
-    src: "/assets/images/Screenshot 2025-02-27 144748.png",
+    src: "/assets/images/school-management.png",
     ctaText: "Visit",
     ctaLink: "https://cjm-school-management-system-frontend.vercel.app/",
     technologies: ["React", "ReCharts", "MongoDB", "Node Js"],
@@ -40,7 +40,7 @@ const cards = [
   {
     title: "Depression Detection via EEG",
     description: "A deep learning model to detect and classify depression based on EEG signals.",
-    src: "/assets/images/depression.webp",
+    src: "/assets/images/depression-detection.webp",
     ctaText: "Confidential", 
     technologies: ["Python", "TensorFlow", "Scikit-learn", "Pandas", "Neural Networks"],
     content: () => {
@@ -55,7 +55,7 @@ const cards = [
    {
     title: "Environmental Analysis System",
     description: "A real-time, interactive system for environmental analysis built on AWS.",
-    src: "/assets/images/WhatsApp Image 2025-03-15 at 22.31.42_242f1081.jpg",
+    src: "/assets/images/environmental-analysis.jpg",
     ctaText: "Visit",
     ctaLink: "#",
     technologies: ["Python", "AWS", "React", "Arduino"],
