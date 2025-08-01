@@ -91,46 +91,47 @@ export function TimelineDemo() {
           <div className="mb-8">
             <div
               className="flex items-center gap-2 text-xs text-neutral-700 md:text-sm dark:text-neutral-300">
-              <p>✅Developed a full-stack school management website for CJM School at Bayappanhalli, Bangalore</p>
+              <p>Developed a full-stack school management website for CJM School at Bayappanhalli, Bangalore</p>
             </div>
             <div
               className="flex items-center gap-2 text-xs text-neutral-700 md:text-sm dark:text-neutral-300">
-              ✅ Did Honours on AI/ML and Generative AI
+              Did Honours on AI/ML and Generative AI
             </div>
             <div
               className="flex items-center gap-2 text-xs text-neutral-700 md:text-sm dark:text-neutral-300">
-              ✅ Developed AI Recipe Generator
+              Developed AI Recipe Generator
             </div>
             <div
               className="flex items-center gap-2 text-xs text-neutral-700 md:text-sm dark:text-neutral-300">
-              ✅ Developed an Real Time Interactive Enviromental Analysis System via AWS
+              Developed an Real Time Interactive Enviromental Analysis System via AWS
             </div>
             <div
               className="flex items-center gap-2 text-xs text-neutral-700 md:text-sm dark:text-neutral-300">
-              ✅ Did Internship at NIT Trichy on AI/ML(Developed an Deep Learning Model to detect and classify depression based on EEG signals)
+              Did Internship at NIT Trichy on AI/ML(Developed an Deep Learning Model to detect and classify depression based on EEG signals)
+              Click on the Projects Button on the NavBar to know more            
             </div>
           </div>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="https://assets.aceternity.com/pro/hero-sections.png"
+              src="/assets/images/recipe-generator.png"
               alt="hero template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60" />
             <img
-              src="https://assets.aceternity.com/features-section.png"
+              src="/assets/images/environmental-analysis.png"
               alt="feature template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60" />
             <img
-              src="https://assets.aceternity.com/pro/bento-grids.png"
+              src="/assets/images/school-management.png"
               alt="bento template"
               width={500}
               height={500}
               className="h-20 w-full rounded-lg object-cover shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset] md:h-44 lg:h-60" />
             <img
-              src="https://assets.aceternity.com/cards.png"
+              src="/assets/images/depression-detection.png"
               alt="cards template"
               width={500}
               height={500}
