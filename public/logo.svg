@@ -2,7 +2,7 @@
     <!-- An abstract, geometric monogram of 'NJ' -->
     <g stroke-width="15" stroke-linecap="square">
         <!-- The black 'N' part of the logo -->
-        <path d="M20 90 L 20 20 L 50 90 L 50 20" stroke="black" fill="none"/>
+        <path d="M20 90 L 20 20 L 50 90 L 50 20" stroke="biege" fill="none"/>
         <!-- The white 'J' part of the logo -->
         <path d="M50 20 L 80 20 L 80 60 C 80 80 65 80 50 80" stroke="white" fill="none"/>
     </g>
