@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import "tailwindcss";
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+.btn-rainbow-border {
+@apply bg-white text-black border-2 border-transparent rounded-md transition-all duration-300;
+}
+.btn-rainbow-border:hover {
+border-image: conic-gradient(from 180deg, #ff00c8, #007bff, #33ff57, #ffeb3b, #ff00c8) 1;
+animation: rainbow-border 1s linear infinite;
+}
+}
+
+@keyframes rainbow-border {
+to {
+border-image-slice: 1;
+border-image-source: conic-gradient(from 180deg, #ff00c8, #007bff, #33ff57, #ffeb3b, #ff00c8);
+}
+}
